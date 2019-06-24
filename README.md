@@ -38,9 +38,7 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 
 - I value clear, honest communication and open feedback.
 - I have worked in client facing roles for 6 years previously, and pride myself on my ability to be self-aware, respectful and polite. In those years I became skilled at identifying client needs and communicating technical solutions (ad tech) to non-technical professionals.
-- I am committed to Agile/XP practices such as face-to-face communication, continuous delivery, collaboration and self-organisation, and appreciate how they contribute to not only a positive working environment, but the bigger commercial picture.
-
-## Skills
+- I am committed to Agile/XP practices such as face-to-face communication, continuous delivery, collaboration and self-organisation, and appreciate how they contribute to not only a positive working environment, but the bigger commercial picture. 
 
 #### Problem Solving
 
