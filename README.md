@@ -1,5 +1,6 @@
 ```
 
+<<<<<<< HEAD
  █████╗ ██╗      █████╗ ███████╗██████╗  █████╗ ██╗██████╗     ██╗    ██╗███████╗███╗   ███╗
 ██╔══██╗██║     ██╔══██╗██╔════╝██╔══██╗██╔══██╗██║██╔══██╗    ██║    ██║██╔════╝████╗ ████║
 ███████║██║     ███████║███████╗██║  ██║███████║██║██████╔╝    ██║ █╗ ██║█████╗  ██╔████╔██║
@@ -40,6 +41,15 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 - I value clear, honest communication and open feedback.
 - I have worked in client facing roles for 6 years previously, and pride myself on my ability to be self-aware, respectful and polite. In those years I became skilled at identifying client needs and communicating technical solutions (ad tech) to non-technical professionals.
 - I am committed to Agile/XP practices such as face-to-face communication, continuous delivery, collaboration and self-organisation, and appreciate how they contribute to not only a positive working environment, but the bigger commercial picture.
+=======
+A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+
+## Skills
+
+Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+
+#### This Skill
+>>>>>>> d85dcdf6d9133f02edc16d80ac9d1217997a5d51
 
 #### Problem Solving
 
@@ -59,9 +69,16 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 
 - Throughout the Makers course I have consistently received positive feedback regarding my ability to be patient, communicate problems clearly and provide a pleasant & fun experience in solving a problem. I also find coaching others incredibly satisfying and rewarding.
 
+<<<<<<< HEAD
 ## Education
 
 #### Makers Academy (Graduated June 2019)
+=======
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
+>>>>>>> d85dcdf6d9133f02edc16d80ac9d1217997a5d51
 
 - Active and independent learning
 - Pair programming
@@ -81,8 +98,11 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 - 2:1
 - Additional module in Spanish
 
+That in some arguable way make you a better software developer or well-rounded person
+
 ## Experience
 
+<<<<<<< HEAD
 **Auction Technology Group** (August '16 to October '18)  
 _Account Manager - Fine Art, Auctions, Fairs_
 This role involved the management of advertising accounts across the Antiques Trade Gazette, a printed and digital newspaper and the-saleroom.com, an online auction portal. Primarily I was required to sell online advertising to a diverse group of accounts, secondary to that, I was involved with selling our online auction software, which offered auction houses across the world either a portal to host auctions on the-saleroom.com or the software to implement it themselves.
@@ -103,3 +123,16 @@ This job involved pitching Daily Telegraph subscriptions to approx. 100 people p
 - Rowing, Running, Swimming, Cycling or Hiking
 - Riding my motorbike (weather permitting)
 - Travelling
+=======
+**Company Name** (start_date to end_date)    
+*Your job title*  
+- Any experience relevent to software development
+
+**Company Name** (start_date to end_date)   
+*Your job title*  
+- Any experience relevent to software development
+
+## Hobbies
+
+Any cool stuff that makes you a super part of a software development team
+>>>>>>> d85dcdf6d9133f02edc16d80ac9d1217997a5d51
