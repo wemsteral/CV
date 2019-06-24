@@ -8,6 +8,8 @@
 
 ```
 
+### Full Stack Software Engineer
+
 [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | [LINKEDIN](https://www.linkedin.com/in/alasdair-wem-b8a00662/)
 
 I am a tenacious problem solver with a creative background. After recognising 3 things in 2019:
@@ -16,7 +18,7 @@ I am a tenacious problem solver with a creative background. After recognising 3 
 - The pace and constant change in the tech industry is energising and exciting.
 - The apple really _doesn't_ fall far from the tree...
 
-...I embarked on a 16 week 'coding bootcamp' at the highly selective Makers Academy. This experience revealed to me that I become passionate about fixing and building things when presented with a complicated project or problem with no 'textbook' solution, and that my past experience working with high-profile clients in the Fine Art industry has led me to become a diplomatic, effective communicator.
+...I embarked on a 16 week 'coding bootcamp' at the highly selective Makers Academy to pursue a career in software engineering. This experience revealed to me that I become passionate about fixing and building things when presented with a complicated project or problem with no 'textbook' solution, and that my past experience working with high-profile clients in the Fine Art industry has led me to become a diplomatic, effective communicator.
 
 I'm now searching for an opportunity to join a team of developers to solve problems with people for a living.
 
@@ -25,7 +27,7 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 | Title                                                                     | Timeframe | What is it?                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [AceBook](https://github.com/wemsteral/acebook-MVP)                       | 9 days    | A clone of facebook, developed in a team of 6 in a project that mimicked a 'client facing' scenario. Complete with personal profiles, walls and tasteful styling. See it here - https://acebook-heroku.herokuapp.com/    |
-| [GinsterGram](https://github.com/wemsteral/instagram_challenge)           | 2 days    | An instagram clone built with RoR, dedicated to Ginster's pasties.                                                                                                                                                       |
+| [GinsterGram](https://github.com/wemsteral/instagram_challenge)           | 2 days    | An instagram clone built with Ruby on Rails, dedicated to Ginster's pasties.                                                                                                                                             |
 | [Thermostat Challenge](https://github.com/wemsteral/Thermostat)           | 2 days    | A mock-thermostat that behaves just like the real thing (minus the subsequent temperature change)! Written in JS & JQuery.                                                                                               |
 | [Rock, Paper, Scissors Game ](https://github.com/wemsteral/rps-challenge) | 2 days    | A 1-player Rock, Paper, Scissors game (and special game-type...), written in Ruby with Sinatra.                                                                                                                          |  |
 | [News App](https://github.com/wemsteral/NewsApp)                          | 2 days    | A politics news app that uses the Guardian news api to pull in headlines and story synopses. Written in JS & JQuery, manually tested with no framework.                                                                  |
@@ -38,12 +40,13 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 
 - I value clear, honest communication and open feedback.
 - I have worked in client facing roles for 6 years previously, and pride myself on my ability to be self-aware, respectful and polite. In those years I became skilled at identifying client needs and communicating technical solutions (ad tech) to non-technical professionals.
-- I am committed to Agile/XP practices such as face-to-face communication, continuous delivery, collaboration and self-organisation, and appreciate how they contribute to not only a positive working environment, but the bigger commercial picture.
+- I am committed to Agile/XP practices such as face-to-face communication, continuous delivery, collaboration and self-organisation, and appreciate how they contribute to not only a positive working environment, but the bigger commercial picture. Our engineering project [Acebook](https://github.com/wemsteral/acebook-MVP/) is a good example of a project that featured both continuous deployment and integration.
 
 #### Problem Solving
 
-- I am genuinely excited to solve problems with my own and others' code, this includes domain modelling and diagramming ideas, refactoring code to make it more efficient, extendable and readable, and debugging.
-- A recent example was the challenge in creating a cross-platform mobile app [Jarvis](https://github.com/wemsteral/Jarvis-App) that behaved consistently while pulling data from native APIs for both iOS and Android. Often the two operating systems would present different types of object for the same request, which meant an additional layer of logic in making them uniform before they were processed by the app.
+- I am genuinely excited to solve problems with my own and others' code, this includes the use of domain modelling and diagramming, refactoring code to make it more efficient, extendable and readable, and debugging.
+- A recent example of a technical problem was the challenge in creating a cross-platform mobile app [Jarvis](https://github.com/wemsteral/Jarvis-App) that behaved consistently while pulling data from native APIs for both iOS and Android. Often the two operating systems would present different types of object for the same request, which meant an additional layer of logic in making them uniform before they were processed by the app.
+- I am tech agnostic in my pursuit of solutions. [Jarvis](https://github.com/wemsteral/Jarvis-App) is a great example of a product that was completely problem driven. We simply looked for the best tools for the job, not allowing any bias to influence that decision. I hadn't used React Native or ES6 before this, and feel that being a quick, self directed learner, helped me become a productive member of this team.
 
 #### Teamwork
 
@@ -63,6 +66,7 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 #### Makers Academy (Graduated June 2019)
 
 - Active and independent learning
+- Agile / XP
 - Pair programming
 - Problem solving
 - Language agnosticism
@@ -90,9 +94,9 @@ This role involved the management of advertising accounts across the Antiques Tr
 _Account Executive - Fine Art, Auctions, Fairs_
 In this role I was solely responsible for managing The Daily Telegraph’s Fine Art section, and 40+ print & digital advertising accounts associated with it. As TMG is one of the UK’s leading news publishers I was fortunate to be exposed to major online publishing innovations, and was required to understand and present the virtues of the advertising technology within it. My key responsibilities were very similar to the role above, but as a more junior role, lacked the autonomy to meet clients face-to-face as frequently.
 
-**The Telegraph Media Group** (November '12 to July '13)
+**The Telegraph Media Group** (November '12 to July '13)  
 _Sales Executive - New Business_
-This job involved pitching Daily Telegraph subscriptions to approx. 100 people per day. I had the no.1 conversion rate in the office and was always in the top 2 for total sales and converted every type of newspaper reader to the Daily Telegraph.
+This job involved pitching Daily Telegraph subscriptions to approx. 100 people per day. I had the #1 conversion rate in the office, was always in the top 2 for total sales and converted every type of newspaper reader to the Daily Telegraph.
 
 ## Interests
 
