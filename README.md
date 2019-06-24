@@ -46,7 +46,7 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 
 - I am genuinely excited to solve problems with my own and others' code, this includes the use of domain modelling and diagramming, refactoring code to make it more efficient, extendable and readable, and debugging.
 - A recent example of a technical problem was the challenge in creating a cross-platform mobile app [Jarvis](https://github.com/wemsteral/Jarvis-App) that behaved consistently while pulling data from native APIs for both iOS and Android. Often the two operating systems would present different types of object for the same request, which meant an additional layer of logic in making them uniform before they were processed by the app.
-- I am tech agnostic in my pursuit of solutions. [Jarvis](https://github.com/wemsteral/Jarvis-App) is a great example of a product that was completely problem driven. We simply looked for the best tools for the job, not allowing any bias to influence that decision. I hadn't used React Native or ES6 before this, and feel that being a quick, self directed learner, helped me become a productive member of this team.
+- I am tech agnostic in my pursuit of solutions. [Jarvis](https://github.com/wemsteral/Jarvis-App) is a great example of a product that was completely problem driven. We chose the best tools for the job after identifying all characteristics and features of the product, not what we were comfortable with. I hadn't used React Native or ES6 before this, and feel that being a quick, self directed learner, helped me become a productive member of this team.
 
 #### Teamwork
 
@@ -55,11 +55,11 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 
   - Regular face-to-face communication conducted in a positive, open environment where all thoughts, ideas and questions are welcomed.
   - Team process reflection.
-  - Welcoming feedback and honesty on our processes, behaviour and code. This includes regular code reviews in group projects.
+  - Welcoming feedback and honesty on our processes, behaviour and code. This includes regular code reviews.
 
     Evidenced in the [Jarvis wiki](https://github.com/Hannah-Frost/Jarvis-App/wiki) & [Acebook wiki](https://github.com/tsankhalpara/acebook-MVP/wiki/Day-1:-Modelling).
 
-- Throughout the Makers course I have consistently received positive feedback regarding my ability to be patient, communicate problems clearly and provide a pleasant & fun experience in solving a problem. I also find coaching others incredibly satisfying and rewarding.
+- Throughout the Makers course I have consistently received positive feedback regarding my ability to be patient, communicate problems clearly and provide a pleasant experience in solving a problem. I also find coaching others incredibly satisfying and rewarding and hope to do more of it in the future.
 
 ## Education
 
