@@ -45,6 +45,7 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 #### Problem Solving
 
 - I am genuinely excited to solve problems with my own and others' code, this includes the use of domain modelling and diagramming, refactoring code to make it more efficient, extendable and readable, and debugging.
+[My solution to the infamous 'Gilded Rose' kata](https://github.com/wemsteral/Gilded_Rose) is a good example of this. It involved refactoring legacy code to incorporate SOLID principles and then extend, a challenge I enjoyed.
 - I am tech agnostic in my pursuit of solutions. [Jarvis](https://github.com/wemsteral/Jarvis-App) is a great example of a product that was completely problem driven. We chose the best tools for the job after identifying all characteristics and features of the product, not the tools we were comfortable with. I hadn't used React Native or ES6 before this, and feel that being a quick, self directed learner, helped me become a productive member of this team.
 
 #### Teamwork
