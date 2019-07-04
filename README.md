@@ -18,7 +18,7 @@ I am a tenacious problem solver with a creative background. After recognising 3 
 - The pace and constant change in the tech industry is energising and exciting.
 - The apple really _doesn't_ fall far from the tree...
 
-...I embarked on a 16 week 'coding bootcamp' at the highly selective Makers Academy to pursue a career in software engineering. This experience revealed to me that I become passionate about fixing and building things when presented with a complicated project or problem with no 'textbook' solution, and that my past experience working with high-profile clients in the Fine Art industry has led me to become a diplomatic, effective communicator.
+...I embarked on a 16 week 'coding bootcamp' at the highly selective [Makers Academy](https://makers.tech/) to pursue a career in software engineering. This experience revealed to me that I become passionate about fixing and building things when presented with a complicated project or problem with no 'textbook' solution, and that my past experience working with high-profile clients in the Fine Art industry has led me to become a diplomatic, effective communicator.
 
 I'm now searching for an opportunity to join a team of developers to solve problems with people for a living.
 
