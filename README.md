@@ -26,7 +26,7 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 
 | Title                                                                     | Timeframe | What is it?                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [AceBook](https://github.com/wemsteral/acebook-MVP)                       | 9 days    | A clone of facebook, developed in a team of 6 in a project that mimicked a 'client facing' scenario. Complete with personal profiles, walls and tasteful styling. See it here - https://acebook-heroku.herokuapp.com/    |
+| [AceBook](https://github.com/wemsteral/acebook-MVP)                       | 9 days    | A clone of facebook, developed in a team of 6 in a project that mimicked a 'client facing' scenario. Complete with personal profiles, walls and tasteful styling. This project featured continuous integration and deployment. See it here - https://acebook-heroku.herokuapp.com/    |
 | [GinsterGram](https://github.com/wemsteral/instagram_challenge)           | 2 days    | An instagram clone built with Ruby on Rails, dedicated to Ginster's pasties.                                                                                                                                             |
 | [Thermostat Challenge](https://github.com/wemsteral/Thermostat)           | 2 days    | A mock-thermostat that behaves just like the real thing (minus the subsequent temperature change)! Written in JS & JQuery.                                                                                               |
 | [Rock, Paper, Scissors Game ](https://github.com/wemsteral/rps-challenge) | 2 days    | A 1-player Rock, Paper, Scissors game (and special game-type...), written in Ruby with Sinatra.                                                                                                                          |  |
@@ -105,4 +105,3 @@ This job involved pitching Daily Telegraph subscriptions to approx. 100 people p
 - Playing or recording music
 - Rowing, Running, Swimming, Cycling or Hiking
 - Riding my motorbike (weather permitting)
-- Visiting new places
