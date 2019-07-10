@@ -92,7 +92,7 @@ This role involved the management of advertising accounts across the Antiques Tr
 
 **The Telegraph Media Group** (July '13 to May '16)  
 _Account Executive - Fine Art, Auctions, Fairs_
-In this role I was solely responsible for managing The Daily Telegraph’s Fine Art section, and 40+ print & digital advertising accounts associated with it. As TMG is one of the UK’s leading news publishers I was fortunate to be exposed to major online publishing innovations, and was required to understand and present the virtues of the advertising technology within it. My key responsibilities were very similar to the role above, but as a more junior role, lacked the autonomy to meet clients face-to-face as frequently.
+In this role I was solely responsible for managing The Daily Telegraph’s Fine Art section, and 40+ print & digital advertising accounts associated with it. As TMG is one of the UK’s leading news publishers I was fortunate to be exposed to major online publishing innovations, and was required to understand and present the virtues of the advertising technology within them. My key responsibilities were very similar to the role above, but as a more junior role, lacked the autonomy to meet clients face-to-face as frequently.
 
 **The Telegraph Media Group** (November '12 to July '13)  
 _Sales Executive - New Business_
