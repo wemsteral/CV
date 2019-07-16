@@ -10,9 +10,9 @@
 
 ### Full Stack Software Engineer
 
-[SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | [LINKEDIN](https://www.linkedin.com/in/alasdair-wem-b8a00662/)
+[SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | [LINKEDIN](https://www.linkedin.com/in/alasdair-wem-b8a00662/) | [GITHUB](https://github.com/wemsteral)
 
-I am a tenacious problem solver with a creative background. After recognising 3 things in 2019:
+I am a tenacious problem solver with a background in advertising. After recognising 3 things in 2019:
 
 - I am happiest when I am solving problems.
 - The pace and constant change in the tech industry is energising and exciting.
@@ -50,8 +50,8 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 
 #### Teamwork
 
-- I have worked as part of a team throughout my professional life. The size ranging from 2 - 14 people. I enjoy identifying obstacles and goals with the support of other people, and most importantly observing and learning from other professionals.
-- I have experience of pair programming and project groups, and worked in pairs and groups during my time at Makers Academy. During the larger projects we have employed Agile principles such as:
+- I have worked as part of a team throughout my professional life. The size ranging from 2 - 14 people. I enjoy identifying obstacles and goals with other people, and most importantly observing and learning from other professionals.
+- I have experience in pair programming and project groups, I have worked in pairs and groups during my time at Makers Academy. During the larger projects we have employed Agile principles such as:
 
   - Regular face-to-face communication conducted in a positive, open environment where all thoughts, ideas and questions are welcomed.
   - Team process reflection.
@@ -75,14 +75,21 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 - Commitment to TDD
 - Clean, readable, maintainable code
 - Software Craftsmanship
-- Ruby, Rails, JavaScript, jQuery, React Native, Expo, Node.js, PostgreSQL
-- RSpec, Jasmine, Jest, Capybara, WemTester
+- HTML, CSS, Ruby, Rails, Sinatra, JavaScript, jQuery, React Native, Expo, Node.js, PostgreSQL
+- Heroku, Travis CI
+- RSpec, Jasmine, Capybara, WemTester
 
 #### University of East Anglia (September 2009 to July 2012)
 
-- BA Music
-- 2:1
-- Additional module in Spanish
+- BA (Hons) Music, 2:1, (Additional module in Spanish)
+
+#### Canterbury College (September 2007 to July 2009)
+
+- HND Music, Distinction
+
+#### Borden Grammar School (September 2002 to July 2007)
+
+- 10 GCSEs A\* - C
 
 ## Experience
 
@@ -104,4 +111,3 @@ This job involved pitching Daily Telegraph subscriptions to approx. 100 people p
 
 - Playing or recording music
 - Rowing, Running, Swimming, Cycling or Hiking
-- Riding my motorbike (weather permitting)
