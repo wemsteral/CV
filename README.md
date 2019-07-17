@@ -95,7 +95,7 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 
 **Auction Technology Group** (August '16 to October '18)  
 _Account Manager - Fine Art, Auctions, Fairs_
-This role involved the management of advertising accounts across the Antiques Trade Gazette, a printed and digital newspaper and the-saleroom.com, an online auction portal. Primarily I was required to sell online advertising to a diverse group of accounts, secondary to that, I was involved with selling our online auction software, which offered auction houses across the world either a portal to host auctions on the-saleroom.com or the software to implement it themselves.
+This role involved the management of advertising accounts across the Antiques Trade Gazette, a printed and digital newspaper and the-saleroom.com, an online auction portal. Primarily I was required to sell online advertising to a diverse group of accounts, secondary to that, I was involved with selling our online auction software, which offered auction houses across the world either a portal to host auctions on the-saleroom.com or the software to implement it themselves. I also acted as ad-ops after the launch of the atg website and was responsible for deploying and monitoring digital advertising.
 
 **The Telegraph Media Group** (July '13 to May '16)  
 _Account Executive - Fine Art, Auctions, Fairs_
