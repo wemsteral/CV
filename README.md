@@ -15,10 +15,10 @@
 I am a tenacious problem solver with a background in advertising. After recognising 3 things in 2019:
 
 - I am happiest when I am solving problems.
-- The pace and constant change in the tech industry is energising and exciting.
+- In my past roles I've been focused, driven & satisfied when working with technology.
 - The apple really _doesn't_ fall far from the tree...
 
-...I embarked on a 16 week 'coding bootcamp' at the highly selective [Makers Academy](https://makers.tech/) to pursue a career in software engineering. This experience revealed to me that I become passionate about fixing and building things when presented with a complicated project or problem with no 'textbook' solution, and that my past experience working with high-profile clients in the Fine Art industry has led me to become a diplomatic, effective communicator.
+...I embarked on a 16 week 'coding bootcamp' at the highly selective [Makers Academy](https://makers.tech/) to pursue a career in software engineering. This experience revealed to me that I become passionate about fixing and building things when presented with a complicated project or problem with no 'textbook' solution, and that my past experience working as an account manager has led me to become a diplomatic, effective communicator.
 
 I'm now searching for an opportunity to join a team of developers to solve problems with people for a living.
 
@@ -47,6 +47,7 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 - I am genuinely excited to solve problems with my own and others' code, this includes the use of domain modelling and diagramming, refactoring code to make it more efficient, extendable and readable, and debugging.
   [My solution to the infamous 'Gilded Rose' kata](https://github.com/wemsteral/Gilded_Rose) is a good example of this. It involved refactoring legacy code to incorporate SOLID principles and then extend, a challenge I enjoyed.
 - I am tech agnostic in my pursuit of solutions. [Jarvis](https://github.com/wemsteral/Jarvis-App) is a great example of a product that was completely problem driven. We chose the best tools for the job after identifying all characteristics and features of the product, not the tools we were comfortable with. I hadn't used React Native or ES6 before this, and feel that being a quick, self directed learner helped me become a productive member of this team.
+- I am passionate about making processes more economical and efficient. In my most recent role, I designed the solution to automate the sales of remnant online advertising inventory. This completely eliminated waste, increased revenue and reduced strain on resources.
 
 #### Teamwork
 
@@ -59,7 +60,7 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 
     Evidenced in the [Jarvis wiki](https://github.com/Hannah-Frost/Jarvis-App/wiki) & [Acebook wiki](https://github.com/tsankhalpara/acebook-MVP/wiki/Day-1:-Modelling).
 
-- Throughout the Makers course I have consistently received positive feedback regarding my ability to be patient, communicate problems clearly and provide a pleasant experience in solving a problem. I also find coaching others incredibly satisfying and rewarding and hope to do more of it in the future.
+- Throughout the Makers course I have consistently received positive feedback regarding my ability to be patient, communicate problems clearly and provide a pleasant experience in solving a problem. I also find coaching others incredibly rewarding and hope to do more of it in the future.
 
 ## Education
 
