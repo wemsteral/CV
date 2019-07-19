@@ -12,7 +12,7 @@
 
 [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | [LINKEDIN](https://www.linkedin.com/in/alasdair-wem-b8a00662/) | [GITHUB](https://github.com/wemsteral)
 
-I am a tenacious problem solver with a background in advertising. After recognising 3 things in 2019:
+I am a tenacious problem solver with a creative background. After recognising 3 things in 2019:
 
 - I am happiest when I am solving problems.
 - In my past roles I've been focused, driven & satisfied when working with technology.
@@ -72,6 +72,7 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 - Problem solving
 - Language agnosticism
 - OOP, SOLID, MVC.
+- Database and domain modelling
 - Version control via GitHub
 - Commitment to TDD
 - Clean, readable, maintainable code
