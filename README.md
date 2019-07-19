@@ -75,6 +75,7 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 - Database and domain modelling
 - Version control via GitHub
 - Commitment to TDD
+- BDD
 - Clean, readable, maintainable code
 - Software Craftsmanship
 - HTML, CSS, Ruby, Rails, Sinatra, JavaScript, jQuery, React Native, Expo, Node.js, PostgreSQL
