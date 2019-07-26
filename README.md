@@ -15,7 +15,7 @@
 I am a tenacious problem solver with a creative background. After recognising 3 things in 2019:
 
 - I am happiest when I am solving problems.
-- In my past roles I've been focused, driven & satisfied when working with technology.
+- I am passionate about improving human experiences with technology.
 - The apple really _doesn't_ fall far from the tree...
 
 ...I embarked on a 16 week 'coding bootcamp' at the highly selective [Makers Academy](https://makers.tech/) to pursue a career in software engineering. This experience revealed to me that I become passionate about fixing and building things when presented with a complicated project or problem with no 'textbook' solution, and that my past experience working as an account manager has led me to become a diplomatic, effective communicator.
