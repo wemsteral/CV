@@ -72,7 +72,7 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 - Language agnosticism
 - OOP, SOLID, MVC.
 - Database and domain modelling
-- Version control via GitHub
+- Version control via GIT
 - Commitment to TDD
 - BDD
 - Clean, readable, maintainable code
