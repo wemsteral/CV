@@ -104,6 +104,7 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 
 **Deloitte** (September '19 - present)
 _Software Engineer_ 
+
 At Deloitte I have been working on an iOS app for a major retail bank. For this I have been using Swift, Xcode, XCtest and Nimble. I'm required to investigate defects, build features and write tests. Prior to this, I worked through a Java course whilst awaiting to be assigned to a project. 
 
 **Auction Technology Group** (August '16 to October '18)  
