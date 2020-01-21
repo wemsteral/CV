@@ -47,11 +47,12 @@ I'm now searching for an opportunity to join a team of developers to solve probl
   [My solution to the infamous 'Gilded Rose' kata](https://github.com/wemsteral/Gilded_Rose) is a good example of this. It involved refactoring legacy code to incorporate SOLID principles and then extend, a challenge I enjoyed.
 - I am tech agnostic in my pursuit of solutions. [Jarvis](https://github.com/wemsteral/Jarvis-App) is a great example of a product that was completely problem driven. We chose the best tools for the job after identifying all characteristics and features of the product, not the tools we were comfortable with. I hadn't used React Native or ES6 before this, and feel that being a quick, self directed learner helped me become a productive member of this team.
 - I am passionate about making processes more economical and efficient. In my most recent role, I designed the solution to automate the sales of remnant online advertising inventory. This completely eliminated waste, increased revenue and reduced strain on resources.
+- I am often assigned to fix bugs in my current role at Deloitte, working with problematic/inconsistent behaviour across different iOS versions. 
 
 #### Teamwork
 
-- I have worked as part of a team throughout my professional life. The size ranging from 2 - 14 people. I enjoy identifying obstacles and goals with other people, and most importantly observing and learning from other professionals.
-- I have experience in pair programming and project groups, I have worked in pairs and groups during my time at Makers Academy. During the larger projects we have employed Agile principles such as:
+- I have worked as part of a team throughout my professional life. The size ranging from 2 - 14 people. I enjoy identifying obstacles and goals with other people and learning from other professionals.
+- I have experience in pair programming and project groups, I have worked in pairs and groups during my time at Makers Academy and Deloitte. During the larger projects we have employed Agile principles such as:
 
   - Regular face-to-face communication conducted in a positive, open environment where all thoughts, ideas and questions are welcomed.
   - Team process reflection.
@@ -62,6 +63,12 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 - Throughout the Makers course I have consistently received positive feedback regarding my ability to be patient, communicate problems clearly and provide a pleasant experience in solving a problem. I also find coaching others incredibly rewarding and hope to do more of it in the future.
 
 ## Education
+
+#### Deloitte
+
+- Udemy Java course
+- Udemy Swift/iOS development course
+- Amazon AWS 101 (currently studying for AWS Cloud Practitioner certification)
 
 #### Makers Academy (Graduated June 2019)
 
@@ -94,6 +101,10 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 - 10 GCSEs A\* - C
 
 ## Experience
+
+**Deloitte** (September '19 - present)
+_Software Engineer_ 
+At Deloitte I have been working on an iOS app for a major retail bank. For this I have been using Swift, Xcode, XCtest and Nimble. I'm required to investigate defects, build features and write tests. Prior to this, I worked through a Java course whilst awaiting to be assigned to a project. 
 
 **Auction Technology Group** (August '16 to October '18)  
 _Account Manager - Fine Art, Auctions, Fairs_
