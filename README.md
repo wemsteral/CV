@@ -12,7 +12,7 @@
 
 [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | [LINKEDIN](https://www.linkedin.com/in/alasdair-wem-b8a00662/) | [GITHUB](https://github.com/wemsteral)
 
-I am a tenacious problem solver who is passiona.te about improving experiences with technology. Since graduating from Makers Academy in the summer of 2019, I have pursued a career in mobile development. I find building and fixing software applications so widely consumed hugely satisfying.
+I am a tenacious problem solver who is passionate about improving experiences with technology. Since graduating from Makers Academy in the summer of 2019, I have pursued a career in mobile development. I find building and fixing software applications so widely consumed hugely satisfying.
 
 My background in account management has led me to become a diplomatic, results-driven communicator who does not struggle to translate technical concepts to colleagues, clients and stakeholders.
 
@@ -22,7 +22,7 @@ My background in account management has led me to become a diplomatic, results-d
 | ------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Jarvis](https://github.com/wemsteral/Jarvis-App)                         | 9 days    | Our final Makers project. A cross platform, mobile personal assistant that offers the user a personalised 'morning report' for the day ahead that can be read aloud for the user's convenience. Written in React Native.                                                           |
 | [AceBook](https://github.com/wemsteral/acebook-MVP)                       | 9 days    | A clone of facebook, developed in a team of 6 in a project that mimicked a 'client facing' scenario. Complete with personal profiles, walls and tasteful styling. This project featured continuous integration and deployment. See it here - https://acebook-heroku.herokuapp.com/ |
-| [GinsterGram](https://github.com/wemsteral/instagram_challenge)           | 2 days    | An instagram clone built with Ruby on Rails, dedicated to Ginster's pasties.                                                                                                                                                                                                       |
+| [GinsterGram](https://github.com/wemsteral/instagram_challenge)           | 2 days    | An instagram clone built with Ruby on Rails, dedicated to Ginsters pasties.                                                                                                                                                                                                       |
 | [Thermostat Challenge](https://github.com/wemsteral/Thermostat)           | 2 days    | A mock-thermostat that behaves just like the real thing (minus the subsequent temperature change)! Written in JS & JQuery. Tested with Jasmine.                                                                                                                                    |
 | [Rock, Paper, Scissors Game ](https://github.com/wemsteral/rps-challenge) | 2 days    | A 1-player Rock, Paper, Scissors game (and special game-type...), written in Ruby with Sinatra.                                                                                                                                                                                    |
 | [WemTester](https://github.com/wemsteral/wemtester)                       | 1 day     | A personal project to develop my understanding & appreciation of testing frameworks. WemTester is a JS testing framework I made myself (a work in progress).                                                                                                                       |
@@ -100,7 +100,7 @@ My background in account management has led me to become a diplomatic, results-d
 
 **Deloitte** _Software Engineer_ (September 2019 - present)
 
-_iOS developer (November 2019 - June 2020):_ 
+_iOS developer (November 2019 - June 2020):_
 At Deloitte I worked on an iOS app for a major retail bank. Technologies used:
 
 - Swift
