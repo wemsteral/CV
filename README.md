@@ -100,7 +100,7 @@ My background in account management has led me to become a diplomatic, results-d
 
 **Deloitte** _Software Engineer_ (September 2019 - present)
 
-- _iOS developer (November 2019 - June 2020):_ 
+_iOS developer (November 2019 - June 2020):_ 
 At Deloitte I worked on an iOS app for a major retail bank. Technologies used:
 
 - Swift
