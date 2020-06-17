@@ -12,7 +12,7 @@
 
 [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | [LINKEDIN](https://www.linkedin.com/in/alasdair-wem-b8a00662/) | [GITHUB](https://github.com/wemsteral)
 
-I am a tenacious problem solver who is passionate about improving experiences with technology. Since graduating from Makers Academy in the summer of 2019, I have pursued a career in mobile development. I find building and fixing software applications so widely consumed hugely satisfying.
+I am a tenacious problem solver who is passiona.te about improving experiences with technology. Since graduating from Makers Academy in the summer of 2019, I have pursued a career in mobile development. I find building and fixing software applications so widely consumed hugely satisfying.
 
 My background in account management has led me to become a diplomatic, results-driven communicator who does not struggle to translate technical concepts to colleagues, clients and stakeholders.
 
@@ -100,7 +100,7 @@ My background in account management has led me to become a diplomatic, results-d
 
 **Deloitte** _Software Engineer_ (September 2019 - present)
 
-_iOS developer (November 2019 - June 2020)_
+- _iOS developer (November 2019 - June 2020):_ 
 At Deloitte I worked on an iOS app for a major retail bank. Technologies used:
 
 - Swift
