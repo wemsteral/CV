@@ -8,19 +8,13 @@
 
 ```
 
-### Full Stack Software Engineer
+### Software Engineer
 
 [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | [LINKEDIN](https://www.linkedin.com/in/alasdair-wem-b8a00662/) | [GITHUB](https://github.com/wemsteral)
 
-I am a tenacious problem solver with a creative background. After recognising 3 things in 2019:
+I am a tenacious problem solver who is passionate about improving experiences with technology. Since graduating from Makers Academy in the summer of 2019, I have pursued a career in mobile development. I find building and fixing software applications so widely consumed hugely satisfying.
 
-- I am happiest when I am solving problems.
-- I am passionate about improving human experiences with technology.
-- The apple really _doesn't_ fall far from the tree...
-
-...I embarked on a 16 week 'coding bootcamp' at the highly selective [Makers Academy](https://makers.tech/) to pursue a career in software engineering. This experience revealed to me that I become passionate about fixing and building things when presented with a complicated project or problem with no 'textbook' solution, and that my past experience working as an account manager has led me to become a diplomatic, effective communicator.
-
-I'm now searching for an opportunity to join a team of developers to solve problems with people for a living.
+My background in account management has led me to become a diplomatic, results-driven communicator who does not struggle to translate technical concepts to colleagues, clients and stakeholders.
 
 ## Projects
 
@@ -38,20 +32,22 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 #### Communication
 
 - I value clear, honest communication and open feedback.
+- On my recent project at Deloitte, I was chosen to mediate a meeting between an analytics team and our BAs because I had the technical understanding of how we implemented our analytics and the ability to put this into context for both parties.
 - I have worked in client facing roles for 6 years previously, and pride myself on my ability to be self-aware, respectful and polite. In those years I became skilled at identifying client needs and communicating technical solutions (ad tech) to non-technical professionals.
-- I am committed to Agile/XP practices such as face-to-face communication, continuous delivery, collaboration and self-organisation, and appreciate how they contribute to not only a positive working environment, but the bigger commercial picture. Our engineering project [Acebook](https://github.com/wemsteral/acebook-MVP/) is a good example of a project that featured both continuous deployment and integration.
+- I am committed to Agile/XP practices such as face-to-face communication, continuous delivery, collaboration and self-organisation, and appreciate how they contribute to not only a positive working environment, but the bigger commercial picture. In my most recent role I was part of an agile delivery team.
 
 #### Problem Solving
 
+- On my recent project at Deloitte, I solved multiple problems in which I identified there had been a miscommunication between testers and developers, whose individual understandings of technical principles differed. I solved these by hosting meetings and aligning our respective understandings.
+- I was often assigned to fix bugs in this project, working with problematic/inconsistent behaviour across different iOS versions. To solve this it was required of me to study the lifecycle of visual components and ensure that they were formatted correctly in all versions.
 - I am genuinely excited to solve problems with my own and others' code, this includes the use of domain modelling and diagramming, refactoring code to make it more efficient, extendable and readable, and debugging.
   [My solution to the infamous 'Gilded Rose' kata](https://github.com/wemsteral/Gilded_Rose) is a good example of this. It involved refactoring legacy code to incorporate SOLID principles and then extend, a challenge I enjoyed.
 - I am tech agnostic in my pursuit of solutions. [Jarvis](https://github.com/wemsteral/Jarvis-App) is a great example of a product that was completely problem driven. We chose the best tools for the job after identifying all characteristics and features of the product, not the tools we were comfortable with. I hadn't used React Native or ES6 before this, and feel that being a quick, self directed learner helped me become a productive member of this team.
-- I am passionate about making processes more economical and efficient. In my most recent role, I designed the solution to automate the sales of remnant online advertising inventory. This completely eliminated waste, increased revenue and reduced strain on resources.
-- I am often assigned to fix bugs in my current role at Deloitte, working with problematic/inconsistent behaviour across different iOS versions. 
+- I am passionate about making processes more economical and efficient. In a recent account management role, I designed the solution to automate the sales of remnant online advertising inventory. This completely eliminated waste, increased revenue and reduced strain on resources.
 
 #### Teamwork
 
-- I have worked as part of a team throughout my professional life. The size ranging from 2 - 14 people. I enjoy identifying obstacles and goals with other people and learning from other professionals.
+- I have worked as part of a team throughout my professional life. I enjoy identifying obstacles and goals with other people and learning from other professionals.
 - I have experience in pair programming and project groups, I have worked in pairs and groups during my time at Makers Academy and Deloitte. During the larger projects we have employed Agile principles such as:
 
   - Regular face-to-face communication conducted in a positive, open environment where all thoughts, ideas and questions are welcomed.
@@ -60,7 +56,7 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 
     Evidenced in the [Jarvis wiki](https://github.com/Hannah-Frost/Jarvis-App/wiki) & [Acebook wiki](https://github.com/tsankhalpara/acebook-MVP/wiki/Day-1:-Modelling).
 
-- Throughout the Makers course I have consistently received positive feedback regarding my ability to be patient, communicate problems clearly and provide a pleasant experience in solving a problem. I also find coaching others incredibly rewarding and hope to do more of it in the future.
+- I consistently receive positive feedback regarding my ability to be patient, communicate problems clearly and provide a pleasant experience in solving a problem. I also find coaching others incredibly rewarding and hope to do more of it in the future.
 
 ## Education
 
@@ -102,21 +98,31 @@ I'm now searching for an opportunity to join a team of developers to solve probl
 
 ## Experience
 
-**Deloitte** (September '19 - present)  
-_Software Engineer_
-At Deloitte I have been working on an iOS app for a major retail bank. For this I have been using Swift, Xcode, XCtest and Nimble. I'm required to investigate defects, build features and write tests. Prior to this, I worked through a Java course whilst awaiting to be assigned to a project. 
+**Deloitte** _Software Engineer_ (September 2019 - present)
 
-**Auction Technology Group** (August '16 to October '18)  
-_Account Manager - Fine Art, Auctions, Fairs_
-This role involved the management of advertising accounts across the Antiques Trade Gazette, a printed and digital newspaper and the-saleroom.com, an online auction portal. Primarily I was required to sell online advertising to a diverse group of accounts, secondary to that, I was involved with selling our online auction software, which offered auction houses across the world either a portal to host auctions on the-saleroom.com or the software to implement it themselves. I also acted as ad-ops after the launch of the atg website and was responsible for deploying and monitoring digital advertising.
+_iOS developer (November 2019 - June 2020)_
+At Deloitte I worked on an iOS app for a major retail bank. Technologies used:
 
-**The Telegraph Media Group** (July '13 to May '16)  
-_Account Executive - Fine Art, Auctions, Fairs_
+- Swift
+- Xcode
+- XCTest with Nimble
+- Swagger
+- Jenkins
+- Git/Gitlab
+- Jira/Confluence
+
+ As a developer I was required to build new features, integrate 3rd party SDKs, fix defects and update UI/copy - often to short deadlines whilst balancing multiple priorities. Beyond the development work, I often spent time explaining technical concepts to those who had different areas of knowledge. For example, I attended meetings to explain our analytics implementation to other employees, showed new members of the testing team how the app works or worked closely with Business Analysts to help them identify where certain parts of the app were generated.
+
+ Our daily structure adhered to Agile principles and we were all responsible for hosting/attending stand-ups and retros. To ensure that we maintained an efficient, open working style during lockdown, it was imperative that we maximised communication. As such, I strongly developed my ability to estimate tickets for my superiors and clearly communicate progress or blockers. Working remotely meant that we often had less support when servers/environments went down, I often worked around this and found alternative solutions to continue progress with tickets.
+
+**Auction Technology Group** _Account Manager - Fine Art, Auctions, Fairs_ (August 2016 to October 2018)  
+This role involved the management of advertising accounts across the Antiques Trade Gazette, a printed and digital newspaper and the-saleroom.com, an online auction portal. Primarily I was required to sell online advertising to a diverse group of accounts, secondary to that, I was involved with selling our online auction software, which offered auction houses across the world either a portal to host auctions on the-saleroom.com or the software to implement it themselves. I also acted as ad-ops after the launch of the ATG website and was responsible for deploying and monitoring digital advertising.
+
+**The Telegraph Media Group** _Account Executive - Fine Art, Auctions, Fairs_ (July 2013 to May 2016)  
 In this role I was solely responsible for managing The Daily Telegraph’s Fine Art section, and 40+ print & digital advertising accounts associated with it. As TMG is one of the UK’s leading news publishers I was fortunate to be exposed to major online publishing innovations, and was required to understand and present the virtues of the advertising technology within them. My key responsibilities were very similar to the role above, but as a more junior role, lacked the autonomy to meet clients face-to-face as frequently.
 
-**The Telegraph Media Group** (November '12 to July '13)  
-_Sales Executive - New Business_
-This job involved pitching Daily Telegraph subscriptions to approx. 100 people per day. I had the #1 conversion rate in the office, was always in the top 2 for total sales and converted every type of newspaper reader to the Daily Telegraph.
+**The Telegraph Media Group** _Sales Executive - New Business_ (November 2012 to July 2013)  
+This job involved pitching Daily Telegraph subscriptions to approx. 100 people per day. I had the highest sales-conversion rate in the office, was always in the top two for total sales and converted every type of newspaper reader to the Daily Telegraph.
 
 ## Interests
 
