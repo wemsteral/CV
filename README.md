@@ -12,7 +12,7 @@
 
 [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | [LINKEDIN](https://www.linkedin.com/in/alasdair-wem-b8a00662/) | [GITHUB](https://github.com/wemsteral)
 
-I am a tenacious problem solver who is passionate about improving experiences with technology. Since graduating from Makers Academy in the summer of 2019, I have pursued a career in mobile development. I find building and fixing software applications so widely consumed hugely satisfying.
+I am a tenacious problem solver who is passionate about improving experiences with technology. Since graduating from Makers Academy in the summer of 2019, I have pursued a career in mobile development.
 
 My background in account management has led me to become a diplomatic, results-driven communicator who does not struggle to translate technical concepts to colleagues, clients and stakeholders.
 
@@ -25,7 +25,7 @@ My background in account management has led me to become a diplomatic, results-d
 | [GinsterGram](https://github.com/wemsteral/instagram_challenge)           | 2 days    | An instagram clone built with Ruby on Rails, dedicated to Ginsters pasties.                                                                                                                                                                                                       |
 | [Thermostat Challenge](https://github.com/wemsteral/Thermostat)           | 2 days    | A mock-thermostat that behaves just like the real thing (minus the subsequent temperature change)! Written in JS & JQuery. Tested with Jasmine.                                                                                                                                    |
 | [Rock, Paper, Scissors Game ](https://github.com/wemsteral/rps-challenge) | 2 days    | A 1-player Rock, Paper, Scissors game (and special game-type...), written in Ruby with Sinatra.                                                                                                                                                                                    |
-| [WemTester](https://github.com/wemsteral/wemtester)                       | 1 day     | A personal project to develop my understanding & appreciation of testing frameworks. WemTester is a JS testing framework I made myself (a work in progress).                                                                                                                       |
+| [WemTester](https://github.com/wemsteral/wemtester)                       | 1 day     | A personal project to develop my understanding & appreciation of testing frameworks. WemTester is a JS testing framework I made myself.                                                                                                                       |
 
 ## Skills
 
@@ -33,7 +33,7 @@ My background in account management has led me to become a diplomatic, results-d
 
 - I value clear, honest communication and open feedback.
 - On my recent project at Deloitte, I was chosen to mediate a meeting between an analytics team and our BAs because I had the technical understanding of how we implemented our analytics and the ability to put this into context for both parties.
-- I have worked in client facing roles for 6 years previously, and pride myself on my ability to be self-aware, respectful and polite. In those years I became skilled at identifying client needs and communicating technical solutions (ad tech) to non-technical professionals.
+- I have worked in client facing roles for 7 years, and pride myself on my ability to be self-aware, respectful and polite. In those years I became skilled at identifying client needs and communicating technical solutions (ad tech) to non-technical professionals.
 - I am committed to Agile/XP practices such as face-to-face communication, continuous delivery, collaboration and self-organisation, and appreciate how they contribute to not only a positive working environment, but the bigger commercial picture. In my most recent role I was part of an agile delivery team.
 
 #### Problem Solving
@@ -86,7 +86,7 @@ My background in account management has led me to become a diplomatic, results-d
 
 #### University of East Anglia (September 2009 to July 2012)
 
-- BA (Hons) Music, 2:1, (Additional module in Spanish)
+- BA (Hons) Music, 2:1, (Additional module in Spanish Language)
 
 #### Canterbury College (September 2007 to July 2009)
 
@@ -100,8 +100,22 @@ My background in account management has led me to become a diplomatic, results-d
 
 **Deloitte** _Software Engineer_ (September 2019 - present)
 
+_React/iOS developer (November 2019 - June 2020):_
+In this assignment I was required to work on an internal Financial Services App. Having had a small amount of React experience previously, I moved onto this project to act as a React developer, despite most of my experience being with another language and platform. Day to day I was tasked with implementing new features, writing tests, fixing bugs and updating the design system. Alongside this, I was also tasked with creating a mobile proof-of-concept, in which I ported over a large feature of the existing app to a native iOS version. This POC is now integrated with the wider 'Alpha' iOS repository and my team and I have mapped out how this will be properly developed.
+
+Technologies used:
+
+- JavaScript
+- React
+- Buildkite
+- Bitbucket
+- React testing Library
+- Contentful CMS
+- Storybook
+
+
 _iOS developer (November 2019 - June 2020):_
-At Deloitte I worked on an iOS app for a major retail bank. Technologies used:
+This assignment was for a major retail bank. Technologies used:
 
 - Swift
 - Xcode
@@ -111,12 +125,12 @@ At Deloitte I worked on an iOS app for a major retail bank. Technologies used:
 - Git/Gitlab
 - Jira/Confluence
 
- As a developer I was required to build new features, integrate 3rd party SDKs, fix defects and update UI/copy - often to short deadlines whilst balancing multiple priorities. Beyond the development work, I often spent time explaining technical concepts to those who had different areas of knowledge. For example, I attended meetings to explain our analytics implementation to other employees, showed new members of the testing team how the app works or worked closely with Business Analysts to help them identify where certain parts of the app were generated.
+ As a developer I was required to build new features, integrate 3rd party SDKs, fix defects and update UI/copy - often to short deadlines whilst balancing multiple priorities. Beyond the development work, I often spent time explaining technical concepts to those who had different areas of knowledge. For example, I attended meetings to explain our analytics implementation to other employees, showed new members of the testing team how the app works and worked closely with Business Analysts to help them identify where certain parts of the app were generated.
 
  Our daily structure adhered to Agile principles and we were all responsible for hosting/attending stand-ups and retros. To ensure that we maintained an efficient, open working style during lockdown, it was imperative that we maximised communication. As such, I strongly developed my ability to estimate tickets for my superiors and clearly communicate progress or blockers. Working remotely meant that we often had less support when servers/environments went down, I often worked around this and found alternative solutions to continue progress with tickets.
 
 **Auction Technology Group** _Account Manager - Fine Art, Auctions, Fairs_ (August 2016 to October 2018)  
-This role involved the management of advertising accounts across the Antiques Trade Gazette, a printed and digital newspaper and the-saleroom.com, an online auction portal. Primarily I was required to sell online advertising to a diverse group of accounts, secondary to that, I was involved with selling our online auction software, which offered auction houses across the world either a portal to host auctions on the-saleroom.com or the software to implement it themselves. I also acted as ad-ops after the launch of the ATG website and was responsible for deploying and monitoring digital advertising.
+This role involved the management of advertising accounts across the Antiques Trade Gazette, a printed and digital newspaper and the-saleroom.com, an online auction portal. Primarily I was required to sell online advertising to a diverse group of accounts, secondary to that, I was involved with selling our online auction software, which offered auction houses across the world either a portal to host auctions on the-saleroom.com or the software to implement it themselves. I also acted as ad-ops after the launch of the ATG website and was responsible for deploying and monitoring digital advertising (Google DFP).
 
 **The Telegraph Media Group** _Account Executive - Fine Art, Auctions, Fairs_ (July 2013 to May 2016)  
 In this role I was solely responsible for managing The Daily Telegraph’s Fine Art section, and 40+ print & digital advertising accounts associated with it. As TMG is one of the UK’s leading news publishers I was fortunate to be exposed to major online publishing innovations, and was required to understand and present the virtues of the advertising technology within them. My key responsibilities were very similar to the role above, but as a more junior role, lacked the autonomy to meet clients face-to-face as frequently.
