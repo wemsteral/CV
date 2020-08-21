@@ -98,10 +98,9 @@ My background in account management has led me to become a diplomatic, results-d
 
 ## Experience
 
-**Deloitte** _Software Engineer_ (September 2019 - present)
+**Deloitte** - _Software Engineer_ (September 2019 - present)
 
 _React/iOS developer (November 2019 - June 2020):_
-In this assignment I was required to work on an internal Financial Services App. Having had a small amount of React experience previously, I moved onto this project to act as a React developer, despite most of my experience being with another language and platform. Day to day I was tasked with implementing new features, writing tests, fixing bugs and updating the design system. Alongside this, I was also tasked with creating a mobile proof-of-concept, in which I ported over a large feature of the existing app to a native iOS version. This POC is now integrated with the wider 'Alpha' iOS repository and my team and I have mapped out how this will be properly developed.
 
 Technologies used:
 
@@ -113,6 +112,7 @@ Technologies used:
 - Contentful CMS
 - Storybook
 
+In this assignment I was required to work on an internal Financial Services App. Having had a small amount of React experience previously, I moved onto this project to act as a React developer, despite most of my experience being with another language and platform. Day to day I was tasked with implementing new features, writing tests, fixing bugs and updating the design system. Due to my prior experience, I was personally tasked with creating a mobile proof-of-concept in which I ported over a feature of the existing app to a native iOS version. This POC is now integrated with the wider 'Alpha' iOS repository. My team and I are looking to take this into development.
 
 _iOS developer (November 2019 - June 2020):_
 This assignment was for a major retail bank. Technologies used:
