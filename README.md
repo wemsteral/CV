@@ -28,13 +28,12 @@ My background in account management has led me to become a diplomatic, results-d
 - Onfido
 - Stripe
 - CryptoKit
+- Swagger
 - XCTest & Nimble
-- Bitbucket
 - Fastlane
 - Buildkite
-- Microsoft Azure
-- Swagger
 - Jenkins
+- Microsoft Azure
 - Git/Gitlab/Bitbucket
 - Jira/Confluence
 - Version control via Git
