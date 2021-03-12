@@ -8,7 +8,7 @@
 
 ```
 
-### Software Engineer
+## Software Engineer
 
 [SKILLS](#skills) | [EXPERIENCE](#experience) | [EDUCATION](#education) | [INTERESTS](#interests) | [LINKEDIN](https://www.linkedin.com/in/alasdair-wem-b8a00662/) | [GITHUB](https://github.com/wemsteral)
 
@@ -16,7 +16,7 @@ I am a tenacious iOS developer with experience in the wealth management and bank
 
 My background in account management has led me to become a diplomatic, results-driven communicator who does not struggle to translate technical concepts to colleagues, clients and stakeholders.
 
-## Skills & Technologies
+### Skills & Technologies
 
 - Swift
 - Xcode
@@ -39,7 +39,7 @@ My background in account management has led me to become a diplomatic, results-d
 - Jira/Confluence
 - Version control via Git
 
-## Experience
+### Experience
 
 **Deloitte** - _iOS Developer_ (September 2019 - present)
 
@@ -70,7 +70,7 @@ In this role I was solely responsible for managing The Daily Telegraph’s Fine 
 **The Telegraph Media Group** _Sales Executive - New Business_ (November 2012 to July 2013)  
 This job involved pitching Daily Telegraph subscriptions to approx. 100 people per day. I had the highest sales-conversion rate in the office, was always in the top two for total sales and converted every type of newspaper reader to the Daily Telegraph.                                                                                                                     |
 
-## Education
+### Education
 
 #### Deloitte
 
@@ -108,7 +108,7 @@ This job involved pitching Daily Telegraph subscriptions to approx. 100 people p
 
 - 10 GCSEs A\* - C
 
-## Interests
+### Interests
 
 #### When I'm not coding, you'll find me:
 
