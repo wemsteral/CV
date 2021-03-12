@@ -28,6 +28,7 @@ My background in account management has led me to become a diplomatic, results-d
 - Onfido
 - Stripe
 - CryptoKit
+- Contentful
 - Swagger
 - XCTest & Nimble
 - Fastlane
@@ -48,9 +49,9 @@ In this assignment I support the development of an established banking applicati
 
 _Sole iOS developer (July 2020 - Feb 2021):_
 
-An assignment that involved building a wealth management application from scratch.
+An assignment that involved building a wealth management application offering users a portfolio of tools and features, for example: Identity check and customer account creation, ISA application, investment risk questionnaire.
 
-I was required to create an iOS application that was a 'fast follower' of an established web application, from scratch. This involved the planning and setting up of the project: the design pattern, frameworks, repository, continuous integration and deployment.
+I was required to create an iOS application that was a 'fast follower' of an established web application, from scratch. This involved the planning and setting up of the project: the design pattern, frameworks, repository, continuous integration and deployment. The project also involved the integration of multiple third party SDKs and linking to a CMS.  
 
 _iOS developer (November 2019 - June 2020):_
 
