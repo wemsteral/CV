@@ -38,6 +38,7 @@ My background in account management has led me to become a diplomatic, results-d
 - Git/Gitlab/Bitbucket
 - Jira/Confluence
 - Version control via Git
+- Agile methodologies
 
 ### Experience
 
